@@ -6,6 +6,9 @@ Solución en Python del **Problema 5** del *Anexo 4 – Banco de problemas* de l
 
 **Estudiante:** Jimmy David Aguirre Rivas
 **Programa:** Ingeniería de Sistemas – ECBTI
+**Grupo:** 213022
+
+**Sustentación en video:** https://youtu.be/6KdQO5Bt2JQ
 
 ---
 
